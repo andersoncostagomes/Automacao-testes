@@ -2,20 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3d18e-3123-452e-91b2-b94a621bf4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/elementMapper/CartPageElementMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/elementMapper/HomePageElementMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/elementMapper/ProductPageElementMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/elementMapper/SearchPageElementMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/pageObjects/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/pageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/pageObjects/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/pageObjects/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/tests/SetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/tests/SetupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/utils/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/src/test/java/utils/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/target/test-classes/tests/SetupTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/target/test-classes/tests/SetupTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../treinamento-automacao-2020/target/test-classes/utils/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../treinamento-automacao-2020/target/test-classes/utils/Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/elementMapper/AuthenticationPageElementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/elementMapper/CategoryPageElementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/elementMapper/CreateAccountPageElementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/elementMapper/MyAccountPageElementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AuthenticationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/CategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/CreateAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementMapper/CartPageElementMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementMapper/CartPageElementMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementMapper/HomePageElementMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementMapper/HomePageElementMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementMapper/ProductPageElementMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementMapper/ProductPageElementMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/SetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/SetupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/treinamento-automacao-2020..kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/CartPageElementMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/HomePageElementMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/ProductPageElementMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/SearchPageElementMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/CartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/ProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/SearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/SetupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Utils.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +54,7 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -52,15 +71,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dani\Desktop\CWI - Teste\automacao-testes\treinamento-automacao-2020\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SetupTest.testAddToCart">
-    <configuration name="SetupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="treinamento-automacao-2020." />
+  <component name="RunManager" selected="JUnit.SetupTest.testAddProductToCartPage">
+    <configuration name="SetupTest.testAcessCategoryTShirts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="treinamento-automacao-2020" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -69,13 +90,52 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testAcessCategoryTShirts" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupTest.testAddProductToCartPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="treinamento-automacao-2020" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
+      <option name="METHOD_NAME" value="testAddProductToCartPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupTest.testAddProductToProductPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="treinamento-automacao-2020" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
+      <option name="METHOD_NAME" value="testAddProductToProductPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SetupTest.testAddToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="treinamento-automacao-2020." />
+      <module name="treinamento-automacao-2020" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -86,12 +146,13 @@
       <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
       <option name="METHOD_NAME" value="testAddToCart" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetupTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="treinamento-automacao-2020." />
+    <configuration name="SetupTest.testCreateNewAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="treinamento-automacao-2020" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -100,51 +161,79 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
-      <option name="METHOD_NAME" value="testLogin" />
+      <option name="METHOD_NAME" value="testCreateNewAccount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetupTest.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="treinamento-automacao-2020." />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
-      <option name="METHOD_NAME" value="testSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Allure" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="allure:serve" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
-    <configuration name="SetupTest.testSelectProduct1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="treinamento-automacao-2020." />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SetupTest" />
-      <option name="METHOD_NAME" value="testSelectProduct1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.SetupTest.testAcessCategoryTShirts" />
+      <item itemvalue="JUnit.SetupTest.testAddProductToCartPage" />
+      <item itemvalue="JUnit.SetupTest.testAddProductToProductPage" />
+      <item itemvalue="JUnit.SetupTest.testAddToCart" />
+      <item itemvalue="JUnit.SetupTest.testCreateNewAccount" />
+      <item itemvalue="Maven.Allure" />
+      <item itemvalue="Maven.Tests" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SetupTest.testAddProductToCartPage" />
+        <item itemvalue="JUnit.SetupTest.testAddProductToProductPage" />
+        <item itemvalue="JUnit.SetupTest.testCreateNewAccount" />
         <item itemvalue="JUnit.SetupTest.testAddToCart" />
-        <item itemvalue="JUnit.SetupTest.testSelectProduct1" />
-        <item itemvalue="JUnit.SetupTest.testSearch" />
-        <item itemvalue="JUnit.SetupTest.testLogin" />
-        <item itemvalue="JUnit.SetupTest" />
+        <item itemvalue="JUnit.SetupTest.testAcessCategoryTShirts" />
       </list>
     </recent_temporary>
   </component>
@@ -162,14 +251,27 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600182132877">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2195" y="22" key="#Inspections" timestamp="1600784924678">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
+    <state x="2195" y="22" key="#Inspections/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600784924678" />
+    <state x="280" y="2" key="#SetupTest.testAddProductToCartPage" timestamp="1601037872309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="2" key="#SetupTest.testAddProductToCartPage/0.0.1366.728@0.0.1366.728" timestamp="1601037872309" />
+    <state x="491" y="193" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600967708208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="491" y="193" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600967708208" />
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600182132877" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600129778718">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601038108123">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601038108123" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600129778718" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600716744614" />
+    <state x="2194" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600791837885" />
+    <state x="385" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600812459508" />
     <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600398811495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,58 +284,97 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600401046186" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1600403694885">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2520" y="138" key="FileChooserDialogImpl" timestamp="1600788050871">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
+    <state x="2520" y="138" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600788050871" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1601038296357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601038296357" />
+    <state width="1768" height="282" key="GridCell.Tab.0.bottom/0.0.1811.1080/1920.0.1366.728@0.0.1811.1080" timestamp="1600696389463" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600206176212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694885" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1600403694884">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600802376471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600795080953" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600815271385" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1601038296357">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601038296357" />
+    <state width="1768" height="282" key="GridCell.Tab.0.center/0.0.1811.1080/1920.0.1366.728@0.0.1811.1080" timestamp="1600696389462" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600206176212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694884" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1600403694884">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600802376471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600795080953" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600815271385" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1601038296357">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601038296357" />
+    <state width="1768" height="282" key="GridCell.Tab.0.left/0.0.1811.1080/1920.0.1366.728@0.0.1811.1080" timestamp="1600696389462" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600206176212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694884" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1600403694884">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600802376471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600795080953" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600815271385" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1601038296357">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601038296357" />
+    <state width="1768" height="282" key="GridCell.Tab.0.right/0.0.1811.1080/1920.0.1366.728@0.0.1811.1080" timestamp="1600696389462" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600206176212" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694884" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600403694885">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600802376471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600795080953" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600815271385" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600977105733">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600977105733" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600200532531" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600715007482" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694885" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600403694885">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600977105733">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600977105733" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600200532531" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600715007481" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694885" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600403694885">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600977105733">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600977105733" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600200532531" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600715007481" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694885" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600403694885">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600977105733">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600977105733" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600200532531" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600715007482" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600403694885" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1600128291614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600128291614" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1600399191046">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1600717081033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600717081033" />
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601032650046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601032650046" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600265400948" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600399191046" />
-    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1600177860644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1600801999397" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600796002143" />
+    <state x="2387" y="83" width="607" height="563" key="find.popup" timestamp="1600784470879">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/1920.-120.1600.860@0.0.1920.1040" timestamp="1600177860644" />
+    <state x="2387" y="83" width="607" height="563" key="find.popup/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1600784470879" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600813426678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600813426678" />
   </component>
 </project>

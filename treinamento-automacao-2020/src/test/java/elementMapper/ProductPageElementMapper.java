@@ -20,4 +20,13 @@ public class ProductPageElementMapper {
     @FindBy(xpath = "//*[@id=\"layer_cart\"]/div[1]/div[2]/div[4]/a")
     public WebElement proceed_to_checkout;
 
+    @FindBy(css = "h1[itemprop=name]")
+    public WebElement productNamePDP;
+
+    @FindBy(css = "#add_to_cart > button")
+    public WebElement buttonAddToCart;
+
+    @FindBy(css = ".button-container a[title='Proceed to checkout']")
+    public WebElement buttonModalProceedToCheckout;
+
 }

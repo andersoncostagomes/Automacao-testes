@@ -12,4 +12,7 @@ public class CartPageElementMapper {
 
     @FindBy(css = "span#total_price")
     public WebElement total_price;
+
+    @FindBy(css = ".cart_description .product-name")
+    public WebElement productNameCart;
 }

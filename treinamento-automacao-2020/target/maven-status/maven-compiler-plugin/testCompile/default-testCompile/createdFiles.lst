@@ -1,0 +1,15 @@
+elementMapper\CategoryPageElementMapper.class
+utils\Browser.class
+elementMapper\CartPageElementMapper.class
+elementMapper\ProductPageElementMapper.class
+utils\Utils.class
+pageObjects\CategoryPage.class
+pageObjects\HomePage.class
+pageObjects\ProductPage.class
+tests\BaseTests.class
+elementMapper\HomePageElementMapper.class
+pageObjects\BasePage.class
+pageObjects\CartPage.class
+elementMapper\SearchPageElementMapper.class
+pageObjects\SearchPage.class
+tests\SetupTest.class

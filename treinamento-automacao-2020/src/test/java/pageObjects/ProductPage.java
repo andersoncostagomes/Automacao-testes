@@ -30,5 +30,15 @@ public class ProductPage extends ProductPageElementMapper {
         proceed_to_checkout.click();
     }
 
+    public String getProductNamePDP(){
+        return productNamePDP.getText();
+    }
 
+    public void clickButtonAddToCart(){
+        buttonAddToCart.click();
+    }
+
+    public void clickButtonModalProceedToCheckout(){
+        buttonModalProceedToCheckout.click();
+    }
 }

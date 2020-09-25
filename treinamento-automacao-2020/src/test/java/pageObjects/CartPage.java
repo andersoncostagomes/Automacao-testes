@@ -20,8 +20,13 @@ public class CartPage extends CartPageElementMapper {
     public String getTextTotal_price(){
         return total_price.getText();
     }
+
     public boolean isCartPage(){
         return getTextNavigation_page().equals("Your shopping cart");
+    }
+
+    public String getNameProductCart(){
+        return productNameCart.getText();
     }
 
 }
