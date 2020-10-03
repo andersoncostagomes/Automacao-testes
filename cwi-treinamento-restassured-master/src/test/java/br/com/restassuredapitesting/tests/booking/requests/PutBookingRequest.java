@@ -22,17 +22,16 @@ public class PutBookingRequest {
                 .put("booking/" + id);
     }
 
-//    @Step("Alterar uma reserva usando o Basic auth")
-//    public Response alterarReservaComBasicAuth(int id, JSONObject payload){
-//        return given()
-//                .auth().basic("Username", "admin")
-//                .auth().basic("Password", "password123")
-//                .header("Content-Type", "application/json")
-//                .header("Accept", "application/json")
-//                .when()
-//                .body(payload.toString())
-//                .put("booking/" + id);
-//    }
+    @Step("Alterar uma reserva usando o Basic auth")
+    public Response alterarReservaComBasicAuth(int id, JSONObject payload){
+        return given()
+                .header("Content-Type", "application/json")
+                .header("Accept", "application/json")
+                .auth().preemptive().basic("admin","password123")
+                .when()
+                .body(payload.toString())
+                .put("booking/" + id);
+    }
 
     @Step("Tentar alterar uma reserva quando o token não for enviado")
     public Response alterarReservaSemToken(int id, JSONObject payload){

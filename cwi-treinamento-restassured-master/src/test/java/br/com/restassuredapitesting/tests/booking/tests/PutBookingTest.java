@@ -37,18 +37,18 @@ public class PutBookingTest extends BaseTest {
                 .body("size()", greaterThan(0));
     }
 
-//    @Test
-//    @Severity(SeverityLevel.NORMAL)
-//    @Category(Acceptance.class)
-//    @DisplayName("Alterar uma reserva usando o Basic auth")
-//    public void alterarUmaReservaUtilizandoBasicAuth() throws Exception{
-//        int primeiroId = getBookingRequest.allBookings().then().statusCode(200).extract().path("[2].bookingid");
-//
-//        putBookingRequest.alterarReservaComBasicAuth(primeiroId, Utils.validPayloadBooking()).then()
-//                .statusCode(200)
-//                .time(lessThan(3L), TimeUnit.SECONDS)
-//                .body("size()", greaterThan(0));
-//    }
+    @Test
+    @Severity(SeverityLevel.NORMAL)
+    @Category(Acceptance.class)
+    @DisplayName("Alterar uma reserva usando o Basic auth")
+    public void alterarUmaReservaUtilizandoBasicAuth() throws Exception{
+        int primeiroId = getBookingRequest.allBookings().then().statusCode(200).extract().path("[0].bookingid");
+
+        putBookingRequest.alterarReservaComBasicAuth(primeiroId, Utils.validPayloadBooking()).then()
+                .statusCode(200)
+                .time(lessThan(3L), TimeUnit.SECONDS)
+                .body("size()", greaterThan(0));
+    }
 
     @Test
     @Severity(SeverityLevel.NORMAL)

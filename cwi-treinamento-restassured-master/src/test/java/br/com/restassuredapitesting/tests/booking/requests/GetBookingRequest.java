@@ -26,7 +26,7 @@ public class GetBookingRequest {
     public Response specificBooking(){
         return given()
                 .when()
-                .get("booking/10");
+                .get("booking/3");
 
     }
 

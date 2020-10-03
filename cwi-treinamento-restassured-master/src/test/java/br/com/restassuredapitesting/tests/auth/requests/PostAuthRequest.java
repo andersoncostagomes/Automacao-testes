@@ -21,6 +21,8 @@ public class PostAuthRequest {
                 .post("auth");
     }
 
+
+
     @Step("Retornar o token")
     public String getToken(){
         return "token=" +this.token().then().statusCode(200).extract().path("token");
