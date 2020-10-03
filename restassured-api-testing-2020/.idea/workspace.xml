@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f587db20-8922-40fb-83c5-a4b8ab9f7e1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../restassured-api-testing" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i7BUHDpxflAFyurvh7urAJjvDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.DeleteBookingTest.deletarUmaReserva">
+    <configuration name="Acceptance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.restassuredapitesting.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.restassuredapitesting.runners" />
+      <option name="MAIN_CLASS_NAME" value="br.com.restassuredapitesting.runners.Acceptance" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteBookingTest.deletarUmaReserva" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.restassuredapitesting.tests.booking.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.restassuredapitesting.tests.booking.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.restassuredapitesting.tests.booking.tests.DeleteBookingTest" />
+      <option name="METHOD_NAME" value="deletarUmaReserva" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetBookingTest.validarIdsDasReservasPeloCheckin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.restassuredapitesting.tests.booking.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.restassuredapitesting.tests.booking.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.restassuredapitesting.tests.booking.tests.GetBookingTest" />
+      <option name="METHOD_NAME" value="validarIdsDasReservasPeloCheckin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetBookingTest.validarIdsDasReservasPeloCheckout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.restassuredapitesting.tests.booking.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.restassuredapitesting.tests.booking.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.restassuredapitesting.tests.booking.tests.GetBookingTest" />
+      <option name="METHOD_NAME" value="validarIdsDasReservasPeloCheckout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetBookingTest.validarListarUmaReservaEspecifica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.restassuredapitesting.tests.booking.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.restassuredapitesting.tests.booking.tests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.restassuredapitesting.tests.booking.tests.GetBookingTest" />
+      <option name="METHOD_NAME" value="validarListarUmaReservaEspecifica" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Acceptance" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=Acceptance" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Contract" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dtest=Contract" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="relatório" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="allure:serve" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Acceptance" />
+      <item itemvalue="JUnit.GetBookingTest.validarListarUmaReservaEspecifica" />
+      <item itemvalue="JUnit.GetBookingTest.validarIdsDasReservasPeloCheckin" />
+      <item itemvalue="JUnit.GetBookingTest.validarIdsDasReservasPeloCheckout" />
+      <item itemvalue="JUnit.DeleteBookingTest.deletarUmaReserva" />
+      <item itemvalue="Maven.Contract" />
+      <item itemvalue="Maven.relatório" />
+      <item itemvalue="Maven.Acceptance" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeleteBookingTest.deletarUmaReserva" />
+        <item itemvalue="JUnit.Acceptance" />
+        <item itemvalue="JUnit.GetBookingTest.validarIdsDasReservasPeloCheckout" />
+        <item itemvalue="JUnit.GetBookingTest.validarIdsDasReservasPeloCheckin" />
+        <item itemvalue="JUnit.GetBookingTest.validarListarUmaReservaEspecifica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f587db20-8922-40fb-83c5-a4b8ab9f7e1e" name="Default Changelist" comment="" />
+      <created>1601248763445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601248763445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601473837920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601473837920" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601249056740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601249056740" />
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1601700126986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601478655411" />
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601700126986" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1601700126986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601478655410" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601700126986" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1601700126986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601478655410" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601700126986" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1601700126986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601478655410" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601700126986" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1601256586346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601256586346" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1601700397107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601299693243" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601700397107" />
+  </component>
+</project>
